@@ -1,2 +1,2 @@
 # TISA
-Scenario Analysis of Nasdaq T-100 Index
+Nasdaq Tech-100 Index Scenario Analysis
